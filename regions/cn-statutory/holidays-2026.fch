@@ -1,0 +1,70 @@
+{
+  "entries" : [
+    {
+      "name" : "元旦",
+      "start" : "2026-01-01",
+      "type" : "off"
+    },
+    {
+      "dates" : [
+        "2026-02-14",
+        "2026-02-28"
+      ],
+      "name" : "春节调休",
+      "type" : "workday"
+    },
+    {
+      "end" : "2026-02-22",
+      "name" : "春节",
+      "start" : "2026-02-16",
+      "type" : "off"
+    },
+    {
+      "end" : "2026-04-06",
+      "name" : "清明节",
+      "start" : "2026-04-04",
+      "type" : "off"
+    },
+    {
+      "dates" : [
+        "2026-04-26",
+        "2026-05-09"
+      ],
+      "name" : "劳动节调休",
+      "type" : "workday"
+    },
+    {
+      "end" : "2026-05-05",
+      "name" : "劳动节",
+      "start" : "2026-05-01",
+      "type" : "off"
+    },
+    {
+      "end" : "2026-06-21",
+      "name" : "端午节",
+      "start" : "2026-06-19",
+      "type" : "off"
+    },
+    {
+      "end" : "2026-09-27",
+      "name" : "中秋节",
+      "start" : "2026-09-25",
+      "type" : "off"
+    },
+    {
+      "end" : "2026-10-07",
+      "name" : "国庆节",
+      "start" : "2026-10-01",
+      "type" : "off"
+    },
+    {
+      "name" : "国庆调休",
+      "start" : "2026-10-10",
+      "type" : "workday"
+    }
+  ],
+  "locale" : "zh-CN",
+  "schema" : "floatclock.holidays/v4",
+  "source" : "cn-statutory",
+  "year" : 2026
+}
