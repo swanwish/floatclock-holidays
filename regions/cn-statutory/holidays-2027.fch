@@ -1,0 +1,69 @@
+{
+  "entries" : [
+    {
+      "end" : "2027-01-03",
+      "name" : "元旦",
+      "start" : "2027-01-01",
+      "type" : "off"
+    },
+    {
+      "dates" : [
+        "2027-01-31",
+        "2027-02-14"
+      ],
+      "name" : "春节调休",
+      "type" : "workday"
+    },
+    {
+      "end" : "2027-02-13",
+      "name" : "春节",
+      "start" : "2027-02-05",
+      "type" : "off"
+    },
+    {
+      "end" : "2027-04-05",
+      "name" : "清明节",
+      "start" : "2027-04-03",
+      "type" : "off"
+    },
+    {
+      "end" : "2027-05-05",
+      "name" : "劳动节",
+      "start" : "2027-05-01",
+      "type" : "off"
+    },
+    {
+      "name" : "劳动节调休",
+      "start" : "2027-05-08",
+      "type" : "workday"
+    },
+    {
+      "name" : "端午节",
+      "start" : "2027-06-09",
+      "type" : "off"
+    },
+    {
+      "name" : "中秋节",
+      "start" : "2027-09-15",
+      "type" : "off"
+    },
+    {
+      "dates" : [
+        "2027-09-26",
+        "2027-10-09"
+      ],
+      "name" : "国庆调休",
+      "type" : "workday"
+    },
+    {
+      "end" : "2027-10-07",
+      "name" : "国庆节",
+      "start" : "2027-10-01",
+      "type" : "off"
+    }
+  ],
+  "locale" : "zh-CN",
+  "schema" : "floatclock.holidays/v4",
+  "source" : "cn-statutory",
+  "year" : 2027
+}

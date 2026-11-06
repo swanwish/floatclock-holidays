@@ -1,6 +1,6 @@
 {
   "schema": "floatclock.holidays.manifest/v1",
-  "updatedAt": "2026-05-02T12:43:35Z",
+  "updatedAt": "2026-11-06T01:10:59Z",
   "regions": [
     {
       "id": "cn-statutory",
@@ -12,6 +12,11 @@
           "year": 2026,
           "url": "https://raw.githubusercontent.com/swanwish/floatclock-holidays/main/regions/cn-statutory/holidays-2026.fch",
           "sha256": "ecbc0c61ce4163c673b206800a7670357937d112ebc86a439ac93690dfe372b5"
+        },
+        {
+          "year": 2027,
+          "url": "https://raw.githubusercontent.com/swanwish/floatclock-holidays/main/regions/cn-statutory/holidays-2027.fch",
+          "sha256": "63cadd8bb251b401d49d254f1adcc6ed6466d3317c5dbeb963daa72250176605"
         }
       ]
     }
